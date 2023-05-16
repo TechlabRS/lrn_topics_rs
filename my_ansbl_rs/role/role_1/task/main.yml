@@ -1,0 +1,4 @@
+- name: my role start
+  host: all
+  ansible_builtin_debug:
+   msg : hey its my playbook on go
